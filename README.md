@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AgriSmart — Smart Agriculture & Crop Prediction System
 
 Starter full-stack Java 21 application for Tomcat 9 (WAR), Spring MVC 5.3 (`javax.servlet`), Spring Security 5.8, Thymeleaf, MySQL 8 and Bootstrap 5.
@@ -69,3 +70,7 @@ Change the example database password before use. For production, use managed MyS
 
 ## Architecture
 Browser (Bootstrap + Thymeleaf) → Spring MVC controllers → services → JdbcTemplate/MySQL. Weather data is fetched server-side from Open-Meteo. Keep sensor and prediction integrations behind service interfaces as the project grows.
+=======
+# smart-agriculture-system
+Smart Agriculture &amp; Crop Prediction System application with following features: Crop and farm management, Weather information integration, Soil monitoring, Irrigation scheduling, Crop productivity analytics.
+>>>>>>> 4c6b0979f1274513937b6362153474ee3a4dbabd
